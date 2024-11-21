@@ -8,7 +8,7 @@
 <XData name="ProductionDefinition">
 <Data><![CDATA[
 <Production Name="Mano.NewProduction" LogGeneralTraceEvents="false">
-  <Description></Description>
+  <Description>Added For Testing</Description>
   <ActorPoolSize>2</ActorPoolSize>
 </Production>
 ]]></Data>
