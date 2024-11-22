@@ -1,8 +1,11 @@
 {
     "objectscript.conn": {
         "server": "localserver",
+        "port": 52774,
         "ns": "GITHUB",
-        "active": true
+        "active": true,
+        "username": "_SYSTEM",
+        "password": "SYS"
     },
     "workbench.colorTheme": "InterSystems Default Dark Modern"
 }
