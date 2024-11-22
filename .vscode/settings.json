@@ -3,5 +3,6 @@
         "server": "localserver",
         "ns": "GITHUB",
         "active": true
-    }
+    },
+    "workbench.colorTheme": "InterSystems Default Dark Modern"
 }
